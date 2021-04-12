@@ -1,0 +1,7 @@
+{
+    "vocab": "../data/vocab",
+    "data": "../data/for_behrt.parquet",
+    "model_path": "./model_path",
+    "model_name": "proact_model_visits_ck",
+    "file_name": "proact_model_log.log"
+}

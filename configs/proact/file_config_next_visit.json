@@ -1,0 +1,8 @@
+{
+    "vocab": "../data/vocab", 
+    "train": "../data/train.parquet",
+    "validation": "../data/validation.parquet",
+	"test": "../data/test.parquet",
+	"train_all": "../data/train_all.parquet",
+	"output_dir": "./model_path/proact_models"
+}

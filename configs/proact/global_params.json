@@ -1,0 +1,13 @@
+{
+  "max_seq_len": 55,
+  "max_len_seq": 55,
+  "max_age": 84,
+  "month": 12,
+  "age_symbol": null,
+  "min_visit": 3,
+  "gradient_accumulation_steps": 1,
+  "batch_size": 20,
+  "use_cuda": false,
+  "device": "cpu",
+  "age_year": true
+}
